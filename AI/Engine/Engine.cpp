@@ -2,5 +2,5 @@
 #include <iostream>
 void InitializeEngine()
 {
-	std::cout << "Engine initialized!\n";
+	std::cout << "New Engine initialized!\n";
 }
